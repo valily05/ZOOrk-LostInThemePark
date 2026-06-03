@@ -70,5 +70,14 @@ The player loses if hunger reaches 0.
 
 ---
 
+## Technologies Used
 
-Valencia Hartono
+* C++
+* Object-Oriented Programming (OOP)
+* Standard Template Library (STL)
+
+---
+
+## Author
+
+Valencia
